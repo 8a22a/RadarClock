@@ -1,0 +1,31 @@
+{
+    "media": [
+        {
+            "defName": "FONT_PIXELMIX_10",
+            "type": "font",
+            "file": "fonts/pixelmix.ttf"
+        },
+        {
+            "defName": "IMAGE_HOUR_HAND",
+            "type": "png-trans",
+            "file": "images/radar_hour_hand.png"
+        },
+        {
+            "defName": "IMAGE_MINUTE_HAND",
+            "type": "png-trans",
+            "file": "images/radar_minute_hand.png"
+        },
+        {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "png",
+            "file": "images/radar_menu_icon.png"
+        },
+        {
+            "defName": "IMAGE_BACKGROUND",
+            "type": "png",
+            "file": "images/radar_background.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
