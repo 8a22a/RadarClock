@@ -5,7 +5,7 @@
 #define MY_UUID { 0x82, 0x98, 0x17, 0xE4, 0x61, 0xCD, 0x4D, 0x10, 0x89, 0xCB, 0x99, 0x52, 0xFD, 0xA8, 0xA7, 0x6A }
 PBL_APP_INFO(MY_UUID,
              "RadarClock", "8a22a - Code, Elzor - Design",
-             1, 0, /* App version */
+             1, 1, /* App version */
              RESOURCE_ID_IMAGE_MENU_ICON,
              APP_INFO_WATCH_FACE);
 
